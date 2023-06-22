@@ -1,6 +1,6 @@
 {
-  "name": "personal-portfolio",
-  "homepage": "https://gitname.github.io/Portfolio",
+  "name": "portfolio",
+  "homepage": "https://gitname.github.io/portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
